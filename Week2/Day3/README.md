@@ -2,4 +2,4 @@
 
 ## Problems
 - [Problem 1](https://leetcode.com/problems/power-of-four/description/?envType=problem-list-v2&envId=bit-manipulation)
-- Problem 2
+- [Problem 2](https://leetcode.com/problems/counting-bits/description/?envType=problem-list-v2&envId=bit-manipulation)
